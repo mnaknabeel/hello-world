@@ -1,3 +1,3 @@
 print('hello world')
-print('hello chomu')
+print('hello moto')
 
